@@ -1,0 +1,9 @@
+# Student Bio
+
+## This is a request to add my bio.
+
+* John Fenton
+* Santa Clara, CA
+* Design & Code
+* Purple
+* Pizza
